@@ -15,9 +15,6 @@ from src.utilities.logger import logger
 # from pprint import pprint
 from hysteresis import FiberGraph
 
-path_graph
-
-
 class AlpWolf():
     """API for Link Flood Protection with Optical Layer Functions (ALPWOLF) 
     https://www.merriam-webster.com/dictionary/fallow fallow adjective (2) 
